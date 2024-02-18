@@ -1,17 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS 14 Pages Router - Starterkit (TailwindCSS, ShadcnUI, Tabler Icon)
 
 ## Getting Started
 
-First, run the development server:
+Installation:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/mariio46/dust.git
+
+cd project
+
+npm install && npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -30,8 +28,8 @@ To learn more about Next.js, take a look at the following resources:
 
 -   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 -   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+-   [Shadcn/UI Documentation](https://ui.shadcn.com/docs) - beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+-   [Tabler Icons Documentation](https://tabler.io/icons) - Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.
 
 ## Deploy on Vercel
 
